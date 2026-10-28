@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </a>
   <a href="https://ask-ai-two-beta.vercel.app">
-    <img src="https://img.shields.io/badge/Featured_App-AskAI-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio App" />
+    <img src="https://img.shields.io/badge/Live_App-AskAI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AskAI Live App" />
   </a>
 
 </div>
