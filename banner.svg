@@ -1,0 +1,124 @@
+<svg fill="none" viewBox="0 0 850 220" width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .banner-container {
+          width: 100%;
+          height: 220px;
+          border-radius: 16px;
+          background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #090d16 100%);
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          box-shadow: 0 10px 30px -10px rgba(99, 102, 241, 0.3);
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          box-sizing: border-box;
+          border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .bg-glow-1 {
+          position: absolute;
+          width: 320px;
+          height: 320px;
+          background: radial-gradient(circle, rgba(99, 102, 241, 0.25) 0%, rgba(99, 102, 241, 0) 70%);
+          top: -100px;
+          left: -60px;
+          border-radius: 50%;
+        }
+
+        .bg-glow-2 {
+          position: absolute;
+          width: 350px;
+          height: 350px;
+          background: radial-gradient(circle, rgba(236, 72, 153, 0.2) 0%, rgba(236, 72, 153, 0) 70%);
+          bottom: -120px;
+          right: -60px;
+          border-radius: 50%;
+        }
+
+        .tag-pill {
+          background: rgba(99, 102, 241, 0.15);
+          border: 1px solid rgba(165, 180, 252, 0.3);
+          color: #a5b4fc;
+          padding: 5px 14px;
+          border-radius: 9999px;
+          font-size: 13px;
+          font-weight: 600;
+          letter-spacing: 0.5px;
+          margin-bottom: 12px;
+          display: inline-flex;
+          align-items: center;
+          gap: 6px;
+          z-index: 2;
+        }
+
+        .name-title {
+          font-size: 44px;
+          font-weight: 800;
+          letter-spacing: -0.5px;
+          background: linear-gradient(90deg, #ffffff 0%, #cbd5e1 50%, #93c5fd 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin: 0;
+          line-height: 1.1;
+          z-index: 2;
+          text-align: center;
+        }
+
+        .role-subtitle {
+          color: #94a3b8;
+          font-size: 16px;
+          font-weight: 500;
+          margin-top: 10px;
+          margin-bottom: 14px;
+          z-index: 2;
+          text-align: center;
+        }
+
+        .role-highlight {
+          color: #38bdf8;
+          font-weight: 600;
+        }
+
+        .tech-chips {
+          display: flex;
+          gap: 8px;
+          flex-wrap: wrap;
+          justify-content: center;
+          z-index: 2;
+        }
+
+        .tech-chip {
+          background: rgba(255, 255, 255, 0.06);
+          border: 1px solid rgba(255, 255, 255, 0.08);
+          color: #e2e8f0;
+          font-size: 11px;
+          font-weight: 600;
+          padding: 3px 10px;
+          border-radius: 6px;
+        }
+      </style>
+
+      <div class="banner-container">
+        <div class="bg-glow-1"></div>
+        <div class="bg-glow-2"></div>
+        <div class="tag-pill">🚀 FULL STACK DEVELOPER &amp; AI AGENT SYSTEMS</div>
+        <h1 class="name-title">VINAYAK MORE</h1>
+        <p class="role-subtitle">
+          SWE Intern at <span class="role-highlight">Ambiguity Labs</span> • MERN Stack &amp; RESTful APIs • JSPM RSCOE '27
+        </p>
+        <div class="tech-chips">
+          <span class="tech-chip">React.js</span>
+          <span class="tech-chip">Node.js</span>
+          <span class="tech-chip">Express</span>
+          <span class="tech-chip">MongoDB</span>
+          <span class="tech-chip">OpenAI &amp; Gemini</span>
+          <span class="tech-chip">Docker</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

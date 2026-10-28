@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner / Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Vinayak%20More&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20MERN%20Specialist&descAlignY=62&descSize=19&fontColor=ffffff" width="100%" />
+  <!-- Custom High-Performance Vector Banner (Hosted directly in repo) -->
+  <img src="./banner.svg" width="100%" alt="Vinayak More Banner" />
+
+  <br/><br/>
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/Vinayak7986">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;SWE+Intern+at+Ambiguity+Labs;Building+AI+Agents+%26+LLM+Workflows;MERN+Stack+%2B+RESTful+APIs+Specialist;Flipkart+GRID+Round+3+Qualifier" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;SWE+Intern+at+Ambiguity+Labs;Building+AI+Agents+%26+LLM+Workflows;MERN+Stack+%2B+RESTful+APIs+Specialist;Flipkart+GRID+Round+3+Qualifier" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -14,14 +16,14 @@
   <a href="mailto:morevinayak616@gmail.com">
     <img src="https://img.shields.io/badge/Email-morevinayak616%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/Vinayak7986">
     <img src="https://img.shields.io/github/followers/Vinayak7986?label=Followers&style=for-the-badge&color=24292e&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Vinayak7986?tab=repositories">
     <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </a>
+  <a href="https://ask-ai-two-beta.vercel.app">
+    <img src="https://img.shields.io/badge/Featured_App-AskAI-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio App" />
   </a>
 
 </div>
@@ -109,16 +111,19 @@ current_focus: Building autonomous AI agents & LLM workflows
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Highlights
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak7986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="165" alt="Vinayak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak7986&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Vinayak7986&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=Vinayak7986&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <p>
+    <img src="https://img.shields.io/badge/Repositories-8_Public-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Actively_Coding-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Role-SWE_Intern_%40AmbiguityLabs-6366F1?style=for-the-badge&logo=sparkles&logoColor=white" />
+  </p>
 
 </div>
 
@@ -135,9 +140,5 @@ current_focus: Building autonomous AI agents & LLM workflows
 <div align="center">
 
   **⭐ Thanks for visiting! Let's connect and build something awesome together! ⭐**
-  
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer" width="100%" />
 
 </div>
